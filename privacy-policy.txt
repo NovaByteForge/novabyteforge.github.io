@@ -8,6 +8,9 @@ By using the Game, you agree to the collection and use of information as describ
 
 Information We Collect
 
+The app uses Google Firebase services to provide a global ranking feature. This collects an anonymous user ID and information about your highest level achieved in the game. This data is stored on Google servers and is 
+used solely for comparison purposes with other players.
+
 We may collect the following types of information:
 
 Device Information: Device type, operating system, unique device identifiers, and mobile network information
